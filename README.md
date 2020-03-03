@@ -1,2 +1,2 @@
-# CV_Projects
+# ComputerVision_Projects
 This repository will include different Computer Vision projects in different topics.
